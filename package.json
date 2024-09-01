@@ -1,0 +1,12 @@
+{
+  "name": "${PROJECT_NAME}",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "@datastructures-js/priority-queue": "^6.3.1"
+  }
+}
